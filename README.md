@@ -1,1 +1,1 @@
-This is an end-2-end machine learning project (with data indigestion, model building, deployments).
+This is an end-2-end machine learning project (with data ingestion, model building, deployments).
