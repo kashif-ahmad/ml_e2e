@@ -1,6 +1,5 @@
 import sys
-import logging
-import logger
+from src.logger import logging
 
 ## this method customises the error message in a format we prefer
 def error_message_detail (error, error_details:sys):
